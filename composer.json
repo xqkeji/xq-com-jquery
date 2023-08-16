@@ -1,0 +1,19 @@
+{
+    "name": "xqkeji/xq-com-jquery",
+    "description": "新齐通用后台管理页面系统的使用的jquery的js、css等前端程序的composer包。",
+    "type": "library",
+    "license": "OpenJS",
+    "autoload": {
+        "psr-4": {
+            "xqkeji\\composer\\jquery\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "xqkeji.cn"
+        }
+    ],
+    "extra": {
+        
+    }
+}
